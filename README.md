@@ -5,11 +5,11 @@ ___
 ## I'm Masud Rana,
 from Rangpur, Banngladesh  <br>
 
-🌱 &nbsp; Building my web development stack. <br>
-🎉 &nbsp; Updating my current frontend skillset. <br>
-🛠 &nbsp; Fixing knowledge base and solving problems. <br>
-💬 &nbsp; Ask me about frontend issues, tell me how you doin'? <br>
-<!-- ⚡ &nbsp; Fun fact: I have a passion for photography, love to see the world through the lens. -->
+🎉 &nbsp; I like to play with Code <br>
+🛠 &nbsp; Javascript is my Life and Python is my Hobby <br>
+🌱 &nbsp; In Leisure time, Think everything by Programming <br>
+📫 &nbsp; Investing maximum time for Learning  <br>
+⚡ &nbsp; Preparing myself for Competition <br>
 
 
 ___
