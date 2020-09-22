@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 #### 📫 &nbsp; Reach me:
-[![facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/oops.masud.rana)
-[![facebook](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@rsrana8)
+[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/oops.masud.rana)
+[![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@rsrana8)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:rana028511@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/masudrana08/)
+
