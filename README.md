@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:rana028511@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/masudrana08/)
 
+<img width="550px" alt="Masud Rana's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=masudrana08&show_icons=true"/>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana08&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
