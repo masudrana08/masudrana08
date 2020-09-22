@@ -34,3 +34,13 @@ Here are some ideas to get you started:
 
 <img width="550px" alt="Masud Rana's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=masudrana08&show_icons=true"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana08&card_width=550)](https://github.com/masudrana08/masudrana08)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[programming]: https://www.programming-hero.com/
+[website]: https://shadin.netlify.app/
+[twitter]: https://shadin.netlify.app/
+[linkedin]: https://shadin.netlify.app/
+[webdevplaylist]: https://shadin.netlify.app/
+[jsplaylist]: https://shadin.netlify.app/
+[cssplaylist]: https://shadin.netlify.app/
+[reactplaylist]: https://shadin.netlify.app/
