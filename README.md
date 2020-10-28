@@ -7,10 +7,10 @@ from Rangpur, Banngladesh  <br>
 
 🎉 &nbsp; I like to play with Code <br>
 🛠 &nbsp; Javascript is my Life and Python is my Hobby <br>
-🌱 &nbsp; In Leisure time, Think everything by Programming <br>
-📫 &nbsp; Investing maximum time for Learning  <br>
-⚡ &nbsp; Preparing myself for Competition <br>
-
+📕 &nbsp; In Leisure time, I like to read book<br>
+📫 &nbsp; Investing maximum time for Learning technology<br>
+⚡ &nbsp; Preparing myself for world class Web Developer<br>
+🌱 &nbsp; I’m currently waste my time to solving problem with C and Javascript <br>
 
 ___
 
@@ -18,7 +18,6 @@ ___
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
